@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Прокат</string>
+    <string name="rating">Рейтинг</string>
+    <string name="color">Цвет</string>
+    <string name="type">Класс</string>
+    <string name="about">Подробнее</string>
+    <string name="cost">Стоимость</string>
+</resources>

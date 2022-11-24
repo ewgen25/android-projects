@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">yandexlavka</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="gribanov">Grabanov</string>
+    <string name="lavka">Lavka</string>
+    <string name="hvntaccount">Do not have an account?</string>
+    <string name="createacc">Create now</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm">Confirm</string>
+
+
+</resources>
